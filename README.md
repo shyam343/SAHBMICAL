@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Live Demo :-  sahbmi-calculator.netlify.app
+## Live Demo :-  [sahbmi-calculator.netlify.app](https://sahbmi-calculator.netlify.app/)
 
 ## Available Scripts
 
