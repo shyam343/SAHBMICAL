@@ -7,6 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## UI :-![Uploading bmi-cal.png…]()
 
 
+
 ## Available Scripts
 
 In the project directory, you can run:
