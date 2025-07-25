@@ -4,6 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Demo :-  [sahbmi-calculator.netlify.app](https://sahbmi-calculator.netlify.app/)
 
+## UI :-![Uploading bmi-cal.png…]()
+
+
 ## Available Scripts
 
 In the project directory, you can run:
